@@ -16,7 +16,7 @@ import {
 import { Card } from "@/components/ui/card"; // shadcn Card component
 import { Button } from "@/components/ui/button"; 
 import { Download, Calendar } from "lucide-react";
-import { useEventContext } from "../context/EventContext";
+import { useEventContext } from "../../context/EventContext";
 import { cn } from "@/lib/utils"; // Conditional class utility
 import { ChevronLeft, ChevronRight, ArrowLeft, ArrowRight } from "lucide-react"; // Icons
 
