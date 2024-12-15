@@ -4,6 +4,9 @@ A feature-rich and interactive calendar grid application built with React and `d
 
 ---
 
+Check out the live version of the app here: [Live Demo](https://my-app.vercel.app)
+
+
 ## Features
 
 - **Interactive Calendar Grid:**
